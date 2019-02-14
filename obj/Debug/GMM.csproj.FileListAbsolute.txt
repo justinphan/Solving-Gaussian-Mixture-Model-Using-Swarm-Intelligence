@@ -1,0 +1,54 @@
+C:\SOA\GMM\GMM\bin\Debug\GMM.exe.config
+C:\SOA\GMM\GMM\bin\Debug\GMM.exe
+C:\SOA\GMM\GMM\bin\Debug\GMM.pdb
+C:\SOA\GMM\GMM\obj\Debug\GMM.csprojResolveAssemblyReference.cache
+C:\SOA\GMM\GMM\obj\Debug\GMM.Form1.resources
+C:\SOA\GMM\GMM\obj\Debug\GMM.Properties.Resources.resources
+C:\SOA\GMM\GMM\obj\Debug\GMM.csproj.GenerateResource.Cache
+C:\SOA\GMM\GMM\obj\Debug\GMM.csproj.CoreCompileInputs.cache
+C:\SOA\GMM\GMM\obj\Debug\GMM.exe
+C:\SOA\GMM\GMM\obj\Debug\GMM.pdb
+D:\csharp2016\GMM\GMM\bin\Debug\GMM.exe.config
+D:\csharp2016\GMM\GMM\bin\Debug\GMM.exe
+D:\csharp2016\GMM\GMM\bin\Debug\GMM.pdb
+D:\csharp2016\GMM\GMM\bin\Debug\Mapack.dll
+D:\csharp2016\GMM\GMM\bin\Debug\Mapack.xml
+D:\csharp2016\GMM\GMM\obj\Debug\GMM.csprojResolveAssemblyReference.cache
+D:\csharp2016\GMM\GMM\obj\Debug\GMM.Form1.resources
+D:\csharp2016\GMM\GMM\obj\Debug\GMM.Properties.Resources.resources
+D:\csharp2016\GMM\GMM\obj\Debug\GMM.csproj.GenerateResource.Cache
+D:\csharp2016\GMM\GMM\obj\Debug\GMM.csproj.CoreCompileInputs.cache
+D:\csharp2016\GMM\GMM\obj\Debug\GMM.exe
+D:\csharp2016\GMM\GMM\obj\Debug\GMM.pdb
+C:\Users\phuphan\Downloads\GMM2\GMM\GMM\bin\Debug\GMM.exe.config
+C:\Users\phuphan\Downloads\GMM2\GMM\GMM\bin\Debug\GMM.exe
+C:\Users\phuphan\Downloads\GMM2\GMM\GMM\bin\Debug\GMM.pdb
+C:\Users\phuphan\Downloads\GMM2\GMM\GMM\bin\Debug\Mapack.xml
+C:\Users\phuphan\Downloads\GMM2\GMM\GMM\obj\Debug\GMM.csprojAssemblyReference.cache
+C:\Users\phuphan\Downloads\GMM2\GMM\GMM\obj\Debug\GMM.Form1.resources
+C:\Users\phuphan\Downloads\GMM2\GMM\GMM\obj\Debug\GMM.Properties.Resources.resources
+C:\Users\phuphan\Downloads\GMM2\GMM\GMM\obj\Debug\GMM.csproj.GenerateResource.cache
+C:\Users\phuphan\Downloads\GMM2\GMM\GMM\obj\Debug\GMM.csproj.CoreCompileInputs.cache
+C:\Users\phuphan\Downloads\GMM2\GMM\GMM\obj\Debug\GMM.csproj.CopyComplete
+C:\Users\phuphan\Downloads\GMM2\GMM\GMM\obj\Debug\GMM.exe
+C:\Users\phuphan\Downloads\GMM2\GMM\GMM\obj\Debug\GMM.pdb
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM\bin\Debug\GMM.exe.config
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM\obj\Debug\GMM.exe
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM\obj\Debug\GMM.pdb
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM\bin\Debug\GMM.exe
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM\bin\Debug\GMM.pdb
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM\bin\Debug\Mapack.xml
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM\obj\Debug\GMM.csprojResolveAssemblyReference.cache
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM\obj\Debug\GMM.Form1.resources
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM\obj\Debug\GMM.Properties.Resources.resources
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM\obj\Debug\GMM.csproj.GenerateResource.Cache
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\bin\Debug\GMM.exe.config
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\obj\Debug\GMM.exe
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\obj\Debug\GMM.pdb
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\obj\Debug\GMM.csprojResolveAssemblyReference.cache
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\obj\Debug\GMM.Form1.resources
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\obj\Debug\GMM.csproj.GenerateResource.Cache
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\bin\Debug\GMM.exe
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\bin\Debug\GMM.pdb
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\bin\Debug\Mapack.xml
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\obj\Debug\GMM.Properties.Resources.resources

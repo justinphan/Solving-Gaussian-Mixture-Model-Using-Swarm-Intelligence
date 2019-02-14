@@ -1,0 +1,65 @@
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\bin\Debug\GMM.exe.config
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\bin\Debug\GMM.exe
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\bin\Debug\GMM.pdb
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\bin\Debug\Mapack.xml
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\obj\Debug\GMM_2.csprojResolveAssemblyReference.cache
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\obj\Debug\GMM.Form1.resources
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\obj\Debug\GMM.Properties.Resources.resources
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\obj\Debug\GMM_2.csproj.GenerateResource.Cache
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\obj\Debug\GMM.exe
+C:\Users\phuphan\Downloads\GMM2\GMM2\GMM\GMM - Final\obj\Debug\GMM.pdb
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\GMM - Final\bin\Debug\GMM.exe.config
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\GMM - Final\bin\Debug\GMM.exe
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\GMM - Final\bin\Debug\GMM.pdb
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\GMM - Final\obj\Debug\GMM.Form1.resources
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\GMM - Final\obj\Debug\GMM.Properties.Resources.resources
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\GMM - Final\obj\Debug\GMM_2.csproj.GenerateResource.Cache
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\GMM - Final\obj\Debug\GMM.exe
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\GMM - Final\obj\Debug\GMM.pdb
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\Assignment 7\GMM - Final - No convert butoon\bin\Debug\GMM.exe.config
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\Assignment 7\GMM - Final - No convert butoon\bin\Debug\GMM.exe
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\Assignment 7\GMM - Final - No convert butoon\bin\Debug\GMM.pdb
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\Assignment 7\GMM - Final - No convert butoon\obj\Debug\GMM.Form1.resources
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\Assignment 7\GMM - Final - No convert butoon\obj\Debug\GMM.Properties.Resources.resources
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\Assignment 7\GMM - Final - No convert butoon\obj\Debug\GMM_2.csproj.GenerateResource.Cache
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\Assignment 7\GMM - Final - No convert butoon\obj\Debug\GMM.exe
+C:\Users\phuphan\Documents\Visual Studio 2015\Projects\Assignment 7\GMM - Final - No convert butoon\obj\Debug\GMM.pdb
+Z:\Assignment 7\GMM - Final - No convert butoon\bin\Debug\GMM.exe.config
+Z:\Assignment 7\GMM - Final - No convert butoon\obj\Debug\GMM.exe
+Z:\Assignment 7\GMM - Final - No convert butoon\obj\Debug\GMM.pdb
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon\bin\Debug\GMM.exe.config
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon\obj\Debug\GMM.exe
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon\obj\Debug\GMM.pdb
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon\bin\Debug\GMM.exe
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon\bin\Debug\GMM.pdb
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon\obj\Debug\GMM_2.csprojResolveAssemblyReference.cache
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon\obj\Debug\GMM.Form1.resources
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon\obj\Debug\GMM.Properties.Resources.resources
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon\obj\Debug\GMM_2.csproj.GenerateResource.Cache
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon - Copy\bin\Debug\GMM.exe.config
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon - Copy\obj\Debug\GMM.exe
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon - Copy\obj\Debug\GMM.pdb
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon - Copy\bin\Debug\GMM.exe
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon - Copy\bin\Debug\GMM.pdb
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon - Copy\obj\Debug\GMM_2.csprojResolveAssemblyReference.cache
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon - Copy\obj\Debug\GMM.Form1.resources
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon - Copy\obj\Debug\GMM.Properties.Resources.resources
+Z:\Projects\Assignment 7\GMM - Final - No convert butoon - Copy\obj\Debug\GMM_2.csproj.GenerateResource.Cache
+Z:\Projects\Assignment 7\GMM - Swarm Intelligence Worked -FINAL\bin\Debug\GMM.exe.config
+Z:\Projects\Assignment 7\GMM - Swarm Intelligence Worked -FINAL\obj\Debug\GMM.exe
+Z:\Projects\Assignment 7\GMM - Swarm Intelligence Worked -FINAL\obj\Debug\GMM.pdb
+Z:\Projects\Assignment 7\GMM - Swarm Intelligence Worked -FINAL\bin\Debug\GMM.exe
+Z:\Projects\Assignment 7\GMM - Swarm Intelligence Worked -FINAL\bin\Debug\GMM.pdb
+Z:\Projects\Assignment 7\GMM - Swarm Intelligence Worked -FINAL\obj\Debug\GMM_2.csprojResolveAssemblyReference.cache
+Z:\Projects\Assignment 7\GMM - Swarm Intelligence Worked -FINAL\obj\Debug\GMM.Form1.resources
+Z:\Projects\Assignment 7\GMM - Swarm Intelligence Worked -FINAL\obj\Debug\GMM.Properties.Resources.resources
+Z:\Projects\Assignment 7\GMM - Swarm Intelligence Worked -FINAL\obj\Debug\GMM_2.csproj.GenerateResource.Cache
+Z:\Projects\Assignment 7 - Final Submission\GMM - Swarm Intelligence Worked -FINAL\bin\Debug\GMM.exe.config
+Z:\Projects\Assignment 7 - Final Submission\GMM - Swarm Intelligence Worked -FINAL\obj\Debug\GMM.exe
+Z:\Projects\Assignment 7 - Final Submission\GMM - Swarm Intelligence Worked -FINAL\obj\Debug\GMM.pdb
+Z:\Projects\Assignment 7 - Final Submission\GMM - Swarm Intelligence Worked -FINAL\bin\Debug\GMM.exe
+Z:\Projects\Assignment 7 - Final Submission\GMM - Swarm Intelligence Worked -FINAL\bin\Debug\GMM.pdb
+Z:\Projects\Assignment 7 - Final Submission\GMM - Swarm Intelligence Worked -FINAL\obj\Debug\GMM_2.csprojResolveAssemblyReference.cache
+Z:\Projects\Assignment 7 - Final Submission\GMM - Swarm Intelligence Worked -FINAL\obj\Debug\GMM.Form1.resources
+Z:\Projects\Assignment 7 - Final Submission\GMM - Swarm Intelligence Worked -FINAL\obj\Debug\GMM.Properties.Resources.resources
+Z:\Projects\Assignment 7 - Final Submission\GMM - Swarm Intelligence Worked -FINAL\obj\Debug\GMM_2.csproj.GenerateResource.Cache
